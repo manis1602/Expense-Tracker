@@ -2,6 +2,12 @@
 <resources>
 
     <style name="Theme.ExpenseTracker" parent="android:Theme.Material.Light.NoActionBar">
-        <item name="android:statusBarColor">@color/purple_700</item>
+        <item name="android:datePickerDialogTheme">@style/MyDatePickerDialogTheme</item>
+    </style>
+
+    // Check themes(night) for more customization
+    <style name="MyDatePickerDialogTheme" parent="android:Theme.Material.Light.Dialog">
+        <item name="android:colorAccent">@color/dark_purple</item>
+        <item name="android:textColorSecondaryInverse">@color/white_90</item>
     </style>
 </resources>

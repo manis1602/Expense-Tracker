@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">ExpenseTracker</string>
+    <string name="app_name">Expense Tracker</string>
+    <string name="app_logo">App Logo</string>
+    <string name="on_boarding_images">OnBoarding Images</string>
+    <string name="password_icon">Password Icon</string>
+    <string name="profile_picture">Profile picture</string>
+    <string name="add_expense_icon">Add Expense</string>
+    <string name="date_range_icon">Date range icon</string>
+    <string name="income_expense_logo">Income and Expense Logo</string>
+    <string name="empty_screen_add">Empty Screen Add</string>
+    <string name="arrow_up_icon">Arrow Up</string>
+    <string name="category_image">Category Image</string>
+    <string name="delete_icon">Delete Icon</string>
+    <string name="empty_screen_error">Empty Screen General Error</string>
+    <string name="back_arrow">Back Arrow</string>
 </resources>
